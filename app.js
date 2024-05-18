@@ -10,7 +10,7 @@ let flag = 0;
 let city = "";
 let latitude = 0.0;
 let longitude = 0.0;
-
+ 
 const weather = {};
 weather.temprature = {
   unit: "celsius",
